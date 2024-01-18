@@ -11,7 +11,7 @@
   
 - 👯 <b>I’m looking to collaborate on</b> exciting projects that involve innovative web development and creative learning opportunities!
 
-- 💬 <b>Ask me about</b> anything related to React.js, MERN stack development, PHP, or web development in general. I'm always excited to discuss these topics!
+- 💬 <b>Ask me about</b> anything related to **React.js, MERN stack development, PHP, or web development** in general. I'm always excited to discuss these topics!
   
 - 📫 <b>Reach me at:</b> laibamudassir15@gmail.com
 
