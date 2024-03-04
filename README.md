@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I AM LAIBA KHAN</h1>
+<h1 align="center">Hi there 👋 I AM LAIBA</h1>
 <h2 align="center">MERN STACK DEVELOPER</h3>
 
 </br>
