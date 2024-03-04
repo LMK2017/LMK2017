@@ -6,8 +6,6 @@
 - 🔭 <b>I’m currently working on</b> the <b>MERN stack</b> with primary focus on front end development with <b>React js</b>
   
 - 🌱 <b>I’m currently learning</b> web development frameworks like Angular, Next,js and constantly looking to improve my skills
-
-- 📄 <b>View my portfolio:</b> https://laiba-khan-portfolio.surge.sh/
   
 - 👯 <b>I’m looking to collaborate on</b> exciting projects that involve innovative web development and creative learning opportunities!
 
