@@ -5,17 +5,16 @@
 
 - 🔭 <b>I’m currently working on</b> the <b>MERN stack</b> with primary focus on front end development with <b>React js</b>
   
-- 🌱 <b>I’m currently learning</b> web development frameworks like Angular, Vue.js and constantly looking to improve my skills
+- 🌱 <b>I’m currently learning</b> web development frameworks like Angular, Next,js and constantly looking to improve my skills
 
 - 📄 <b>View my portfolio:</b> https://laiba-khan-portfolio.surge.sh/
   
 - 👯 <b>I’m looking to collaborate on</b> exciting projects that involve innovative web development and creative learning opportunities!
 
-- 💬 <b>Ask me about</b> anything related to **React.js, MERN stack development, PHP, or web development** in general. I'm always excited to discuss these topics!
+- 💬 <b>Ask me about</b> anything related to **React.js, MERN stack development, Next.js, PHP, or web development** in general. I'm always excited to discuss these topics!
   
 - 📫 <b>Reach me at:</b> laibamudassir15@gmail.com
 
-- 🔗 <b>Connect with me:</b> [Laiba Khan LinkedIn Profile](https://www.linkedin.com/in/laiba-khan-8212891a7/)
 
 </br>
 
