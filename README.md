@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I AM LAIBA</h1>
+<h1 align="center">Hi there 👋 I AM LAIBA KHAN</h1>
 <h2 align="center">MERN STACK DEVELOPER</h3>
 
 </br>
@@ -13,6 +13,9 @@
   
 - 📫 <b>Reach me at:</b> laibamudassir15@gmail.com
 
+- 🌐 <b>View my Portfolio:</b> [Laiba Khan Portfolio](https://laiba-khan-portfolio.surge.sh/)
+
+- 💼 <b>Connect with me:</b> [Linkedin](https://www.linkedin.com/in/laiba-khan-8212891a7/)
 
 </br>
 
